@@ -6,6 +6,7 @@
         <option value="de-DE" selected>German</option>
         <option value="en-US">English</option>
         <option value="fr-FR">French</option>
+        <option value="zh-cn">Chinese</option>        
       </select>
     </div>
     <br />
